@@ -98,15 +98,5 @@ Bu proje, Flask kullanılarak geliştirilmiş bir REST API uygulamasıdır. Proj
 
 ---
 
-## **Container'ın Durdurulması**
-
-Container'ı durdurmak için şu komutları kullanabilirsiniz:
-
-- Docker ile:
-  ```bash
-  docker stop <container_id>
- ```
-
-
-  ![IMAGE](docker.png)
+![IMAGE](docker.png)
 # restfull-Docker
