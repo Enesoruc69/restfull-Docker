@@ -105,6 +105,7 @@ Container'ı durdurmak için şu komutları kullanabilirsiniz:
 - Docker ile:
   ```bash
   docker stop <container_id>
+ ```
 
 
   ![IMAGE](docker.png)
